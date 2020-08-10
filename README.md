@@ -1,0 +1,1 @@
+# Pterodactyl-PT-BR-Translation
